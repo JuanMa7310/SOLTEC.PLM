@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/badge/license-GPL-3.svg)
 ![image](https://img.shields.io/badge/license-LGPL-3.svg)
 
-**SOLTEC.CRM** (**Customer Relationship Management**). The concept refers to a type of software that enables the 
+**SOLTEC.PLM** (**Product Lifecycle Management**). The concept refers to a type of software that enables the 
 integration of Customer Relationship processes, systems and tools. By definition, it standardizes workflows, improving 
 operational efficiency and increasing the productivity of the *Customer* team, which is achieved through a unified view 
 of data and the automation of processes.

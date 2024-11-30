@@ -3,10 +3,10 @@
 ![image](https://img.shields.io/badge/license-GPL-3.svg)
 ![image](https://img.shields.io/badge/license-LGPL-3.svg)
 
-**SOLTEC.CRM** (**Customer Relationship Management**). The concept refers to a type of software that enables the 
-integration of Customer Relationship processes, systems and tools. By definition, it standardizes workflows, improving 
-operational efficiency and increasing the productivity of the *Customer* team, which is achieved through a unified view 
-of data and the automation of processes.
+**SOLTEC.PLM** (**Product Lifecycle Management**). El concepto hace referencia a un tipo de software que permite la 
+integración de procesos, sistemas y herramientas del Ciclo de Vida de los Productos. Por definición, estandariza los 
+flujos de trabajo, mejorando la eficiencia operativa y aumentando la productividad del equipo de *Almacenes*, lo que se 
+logra a través de una visión unificada de los datos y la automatización de los procesos.
 
 # Installation
 
@@ -28,7 +28,7 @@ Cite this work as:
 ```bibtex
 @misc{soltec2024plm,
     title={SOLTEC.PLM},
-    author={Juan Manuel Pardo García SOLTEC and SOLTEC.PLM contributors},
+    author={Juan Manuel Pardo García SOLTEC y SOLTEC.PLM colaboradores},
     year={2024},
     url={http://www.SOLTEC.com/SIGE/PLM}
 }

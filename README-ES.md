@@ -1,6 +1,5 @@
 # SOLTEC.PLM
 
-![image](https://img.shields.io/badge/license-GPL-3.svg)
 ![image](https://img.shields.io/badge/license-LGPL-3.svg)
 
 **SOLTEC.PLM** (**Product Lifecycle Management**). El concepto hace referencia a un tipo de software que permite la 
@@ -10,7 +9,11 @@ logra a través de una visión unificada de los datos y la automatización de lo
 
 # Installation
 
+
+
 # Building
+
+
 
 #### With Visual Studio 2022
 
